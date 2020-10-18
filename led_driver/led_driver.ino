@@ -7,8 +7,8 @@
  
 // Pin 13 has an LED connected on most Arduino boards.
 // give it a name:
-int purpleLed = 13;
-int blueLed = 12;
+int purpleLed = 7;
+int blueLed = 6;
 
 // the setup routine runs once when you press reset:
 void setup() {                
